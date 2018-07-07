@@ -1,0 +1,9 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/rpc-bindings/common.git
+[submodule "core"]
+	path = core
+	url = https://github.com/rpc-bindings/core.git
+[submodule "node"]
+	path = node
+	url = https://github.com/rpc-bindings/node.git
