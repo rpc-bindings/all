@@ -7,3 +7,12 @@
 [submodule "node"]
 	path = node
 	url = https://github.com/rpc-bindings/node.git
+[submodule "cefglue"]
+	path = cefglue
+	url = https://github.com/rpc-bindings/cefglue.git
+[submodule "cefglue-contract"]
+	path = cefglue-contract
+	url = https://github.com/rpc-bindings/cefglue-contract.git
+[submodule "cefglue-connector"]
+	path = cefglue-connector
+	url = https://github.com/rpc-bindings/cefglue-connector.git
